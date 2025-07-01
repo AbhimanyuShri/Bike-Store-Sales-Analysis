@@ -1,4 +1,4 @@
-# Bike-Store-Sales-Analysis
+# Bike Store Sales Analysis
 This project involves a detailed analysis of three bike stores’ sales and staff (Baldwin, Santa Cruz, and Rowlett Bikes). The objective is to extract crucial insights and answer multiple business questions based on the dataset. All bike stores are owned by the same company, so it’s vital to analyze from the perspective of the company.
 
 # Presentation
